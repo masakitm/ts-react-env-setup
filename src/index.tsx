@@ -3,7 +3,7 @@ import * as ReactDOM from "react-dom";
 
 const root = document.getElementById("root");
 
-const App = () => {
+const App = (): any => {
   return <div>Hello, Hello, Hello!</div>;
 };
 
